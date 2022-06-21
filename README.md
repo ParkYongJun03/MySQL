@@ -47,7 +47,9 @@ MySQL Basic
 > ### Database로 EER model 만들기
 >> <img src="https://user-images.githubusercontent.com/83456300/174707814-f7a6ab46-4d16-492e-97d7-0328804abb42.png" width="200"></img>
 >>
->> home처럼 생긴 집을 누른 뒤, `create EER model from Database` 클릭 
+>> home처럼 생긴 집을 누른 뒤, `create EER model from Database` 클릭
+>> 
+>> 또는 Database 탭의 Reverse Engineering 
 >> 
 >> <img src="https://user-images.githubusercontent.com/83456300/174708005-e3277366-b6ae-45fe-afd0-24ebeeac41fc.png" width="300"></img>
 >> 
